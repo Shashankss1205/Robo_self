@@ -1,4 +1,4 @@
-## Workshop 2 - OpenCV
+## Workshop 1 - OpenCV
 
 ## Link to the workshop slides
 - [Google Slides](https://docs.google.com/presentation/d/1OXYYctC64WCXbOv_aBub7I36HOt1z_HUSCtXRgHmkNA/edit?usp=sharing)
@@ -15,8 +15,9 @@ All the images and codes used in the presentation are added in the repository. Y
 - [Masking](https://github.com/Robotics-Club-IIT-BHU/La-Robo-Liga-Workshops/blob/main/Workshop%202%20-%20OpenCV/masking.py)
 
 ## Further references
+- [OpenCV Functions Demonstration]https://github.com/ajitsingh98/Hands-on-with-OpenCV/blob/main/Hands-on-with-openCV.ipynb
 - [OpenCV Docs](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
 - [Sentdex Playlist](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 
-## Task
+## Task1: Code for a N-gon detector that takes an image containing various shaped polygons and outputs the image with the name of each polygon using all image processing techniques discussed
 Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed
