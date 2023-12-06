@@ -5,6 +5,8 @@
 
 ## Link to Intro to python playlist {lec 1-7 would suffice}
 - [Sentdex Python Playlist](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+- [Python for Beginners-Learn Python in 1 hour](https://youtu.be/kqtD5dpn9C8?si=Vm-AFsbV97xW-7sL)
+- [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
 ## Codes used in the presentation:
 All the images and codes used in the presentation are added in the repository. You are more than welcome to download the files and play with them. More you try and test, more you learn!!
