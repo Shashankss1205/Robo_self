@@ -22,5 +22,8 @@ All the images and codes used in the presentation are added in the repository. Y
 - [OpenCV Docs](https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html)
 - [Sentdex CV Playlist](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 
-## Task1: 
+## Task 1: 
 Code for a N-gon detector that takes an image containing various shaped polygons and outputs the image with the name of each polygon using all image processing techniques discussed
+
+## Task 2: 
+Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed
