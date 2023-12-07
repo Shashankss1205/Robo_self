@@ -1,7 +1,7 @@
 ## Workshop 1 - OpenCV
 
 ## Link to the workshop slides
-- [Google Slides](https://docs.google.com/presentation/d/1OXYYctC64WCXbOv_aBub7I36HOt1z_HUSCtXRgHmkNA/edit?usp=sharing)
+- Soon to be updated after the workshop.
 
 ## Link to Intro to python playlist {lec 1-7 would suffice}
 - [Sentdex Python Playlist](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
